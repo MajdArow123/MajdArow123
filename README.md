@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Mjd 👋
 
-<!--
-**MajdArow123/MajdArow123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Programming & Analysis student at George Brown College.
 
-Here are some ideas to get you started:
+## 💻 About Me
+- Passionate about software development
+- Building full-stack applications using C# and ASP.NET
+- Exploring IoT systems with ESP32 and Arduino
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- C#
+- ASP.NET Core
+- SQL / PostgreSQL
+- Java
+- Python
+- Git
+- HTML / CSS / JavaScript
+
+## 📌 Projects
+- ProTracker – Athlete and training management system
+- EventHub – Web application project
+- Smart IoT Security System – ESP32 + ASP.NET integration
+
+## 🎯 Currently Working On
+- Improving my GitHub portfolio
+- Building real-world projects
+- Learning IoT and system integration
