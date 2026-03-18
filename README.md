@@ -1,4 +1,4 @@
-# Hi, I'm Mjd 👋
+# Hi, I'm Majd 👋
 
 Computer Programming & Analysis student at George Brown College.
 
